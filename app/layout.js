@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: 'LaunchCore',
   description: 'Performance marketing agency for eCommerce brands',
