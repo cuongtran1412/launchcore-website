@@ -52,7 +52,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-gray-600 mb-8">Want to scale your brand? Let's talk. We'll audit your current setup and show you what's possible.</p>
           <a
-            href="mailto:support@launchcore.agency"
+            href="mailto:admin@launchcore.agency"
             className="inline-block bg-black text-white px-8 py-4 rounded-lg hover:bg-gray-800 text-lg"
           >
             Email Us
