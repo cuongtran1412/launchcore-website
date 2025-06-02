@@ -6,7 +6,7 @@ export default function Home() {
       {/* Hero Section */}
       <section
         className="h-screen bg-cover bg-center text-white flex flex-col justify-center items-center text-center px-6"
-        style={{ backgroundImage: "url('https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/rpdarqpmbil4ji6waraw.png')" }}
+        style={{ backgroundImage: "url('https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843881/jfdttfwe6zwfwmzeihqi.png')" }}
       >
         <h1 className="text-5xl md:text-6xl font-extrabold mb-6 leading-tight">
           Unlimited performance marketing.<br />One flat monthly fee.
