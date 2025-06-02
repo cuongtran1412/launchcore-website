@@ -27,19 +27,19 @@ export default function Home() {
         <h2 className="text-4xl font-bold mb-12">What We Do</h2>
         <div className="grid md:grid-cols-3 gap-12 text-left">
           <div className="flex flex-col items-center">
-            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/ujl6pxgt9q5lftkogsin.png" alt="Paid Social Icon" className="w-14 h-14 mb-4" />
+            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/ujl6pxgt9q5lftkogsin.png" alt="Paid Social Icon" className="w-24 h-24 mb-6" />
             <h3 className="font-bold text-xl mb-3">Paid Social</h3>
-            <p className="text-gray-700">High-ROAS campaigns across Meta, TikTok, and Google. Creative testing, scaling, retargeting.</p>
+            <p className="text-gray-700 text-center">High-ROAS campaigns across Meta, TikTok, and Google. Creative testing, scaling, retargeting.</p>
           </div>
           <div className="flex flex-col items-center">
-            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/dlvvn3aplzuigwc5qni6.png" alt="Lifecycle Marketing Icon" className="w-14 h-14 mb-4" />
+            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/dlvvn3aplzuigwc5qni6.png" alt="Lifecycle Marketing Icon" className="w-24 h-24 mb-6" />
             <h3 className="font-bold text-xl mb-3">Lifecycle Marketing</h3>
-            <p className="text-gray-700">Email & SMS strategy and execution. Flows, campaigns, retention tactics powered by Klaviyo.</p>
+            <p className="text-gray-700 text-center">Email & SMS strategy and execution. Flows, campaigns, retention tactics powered by Klaviyo.</p>
           </div>
           <div className="flex flex-col items-center">
-            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/cqe6prgxqplijg8tqiab.png" alt="CRO Icon" className="w-14 h-14 mb-4" />
+            <img src="https://res.cloudinary.com/dv3wx2mvi/image/upload/v1748843506/cqe6prgxqplijg8tqiab.png" alt="CRO Icon" className="w-24 h-24 mb-6" />
             <h3 className="font-bold text-xl mb-3">CRO & Landing Pages</h3>
-            <p className="text-gray-700">Optimize conversions through custom landing pages, A/B testing, and funnel audits.</p>
+            <p className="text-gray-700 text-center">Optimize conversions through custom landing pages, A/B testing, and funnel audits.</p>
           </div>
         </div>
       </section>
@@ -61,7 +61,7 @@ export default function Home() {
           <h2 className="text-4xl font-bold mb-4">Get In Touch</h2>
           <p className="text-gray-600 mb-8">Want to scale your brand? Let's talk. We'll audit your current setup and show you what's possible.</p>
           <a
-            href="mailto:admin@launchcore.agency"
+            href="mailto:support@launchcore.com"
             className="inline-block bg-black text-white px-8 py-4 rounded-lg hover:bg-gray-800 text-lg"
           >
             Email Us
@@ -76,5 +76,6 @@ export default function Home() {
     </main>
   );
 }
+
 
 
